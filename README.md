@@ -15,7 +15,7 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Seaborn
+- Seaborn
 
 ## **Project Structure**
 
@@ -35,28 +35,15 @@ project-13-ml-model/
 
 ## **Getting Started**
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/project-13-ml-model.git
-   ```
-
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd project-13-ml-model
-   ```
-
-
-3. Install the required dependencies:
+1. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
 
-4. Run the Jupyter Notebook to explore the implementation:
+2. Run the Jupyter Notebook to explore the implementation:
 
    ```bash
    jupyter notebook notebooks/model_implementation.ipynb
@@ -65,6 +52,6 @@ project-13-ml-model/
 
 ## **License**
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
 ---
