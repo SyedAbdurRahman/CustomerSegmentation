@@ -48,6 +48,7 @@ project-13-ml-model/
    ```bash
    jupyter notebook notebooks/model_implementation.ipynb
    ```
+![image](https://github.com/user-attachments/assets/9a01630e-e13a-48fc-b31b-c6e7b3c72a34)
 
 
 ## **License**
